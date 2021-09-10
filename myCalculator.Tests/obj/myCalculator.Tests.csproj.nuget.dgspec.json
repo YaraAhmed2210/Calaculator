@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yara ahmed mohmed\\source\\repos\\myCalculator\\myCalculator.Tests\\myCalculator.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yara ahmed mohmed\\source\\repos\\myCalculator\\myCalculator.Tests\\myCalculator.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yara ahmed mohmed\\source\\repos\\myCalculator\\myCalculator.Tests\\myCalculator.Tests.csproj",
+        "projectName": "myCalculator.Tests",
+        "projectPath": "C:\\Users\\yara ahmed mohmed\\source\\repos\\myCalculator\\myCalculator.Tests\\myCalculator.Tests.csproj",
+        "packagesPath": "C:\\Users\\yara ahmed mohmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yara ahmed mohmed\\source\\repos\\myCalculator\\myCalculator.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yara ahmed mohmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\yara ahmed mohmed\\source\\repos\\myCalculator\\myCalculator\\myCalculator.csproj": {
+                "projectPath": "C:\\Users\\yara ahmed mohmed\\source\\repos\\myCalculator\\myCalculator\\myCalculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\yara ahmed mohmed\\source\\repos\\myCalculator\\myCalculator\\myCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yara ahmed mohmed\\source\\repos\\myCalculator\\myCalculator\\myCalculator.csproj",
+        "projectName": "myCalculator",
+        "projectPath": "C:\\Users\\yara ahmed mohmed\\source\\repos\\myCalculator\\myCalculator\\myCalculator.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
